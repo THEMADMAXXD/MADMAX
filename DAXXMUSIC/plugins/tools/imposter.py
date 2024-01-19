@@ -86,7 +86,7 @@ async def chk_usr(_, message: Message):
             message.from_user.last_name,
         )
     if msg != "":
-        await message.reply_photo("https://telegra.ph/file/ded86839c47bdd843109b.jpg", caption=msg)
+        await message.reply_photo("https://telegra.ph/file/008d5f4a1b214d61e27e7.jpg", caption=msg)
 
 
 @app.on_message(filters.group & filters.command("imposter") & ~filters.bot & ~filters.via_bot)
