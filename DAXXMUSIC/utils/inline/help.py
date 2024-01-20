@@ -10,7 +10,7 @@ def help_pannel(_, START: Union[bool, int] = None):
     second = [
         InlineKeyboardButton(
             text=_["BACK_BUTTON"],
-            callback_data=f"close",
+            callback_data=f"settingsback_helper",
         ),
     ]
     mark = second if START else first
@@ -130,6 +130,12 @@ def help_pannel(_, START: Union[bool, int] = None):
                     callback_data="help_callback hb24",
                 ),
                
+            ],
+            [
+              InlineKeyboardButton(
+                    text=_["S_B_5"],
+                    url="https://t.me/ABOUT_SASHIKANT",
+                ),
             ],
             mark,
         ]
