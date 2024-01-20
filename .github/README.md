@@ -30,9 +30,9 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THEMADMAXXD/MADMAX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-00FFFF?style=for-the-badge&logo=heroku" width="220" height="60"/></a></p>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=white&width=420&lines=💥+ɪғ+ᴀɴʏ+ᴇʀʀᴏʀ+ᴛʜᴇɴ+sᴇɴᴅ+ᴍᴇ+ᴇʀʀᴏʀ+ɪɴ+ʀᴏʏ+ᴇᴅɪᴛx+...">
+<img src="https://readme-typing-svg.herokuapp.com?color=white&width=420&lines=💥+ɪғ+ᴀɴʏ+ᴇʀʀᴏʀ+ᴛʜᴇɴ+sᴇɴᴅ+ᴍᴇ+ᴇʀʀᴏʀ+ɪɴ+ᴀʙᴏᴜᴛ+sᴀsʜɪᴋᴀɴᴛ+...">
 <p align="center">
-<a href="https://telegram.me/VOICEOFHEART0"><img src="https://img.shields.io/badge/-๛DM TO RoY EdiTX%20☆-FF00FF.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/VOICEOFHEART0"><img src="https://img.shields.io/badge/-๛DM TO sᴀsʜɪᴋᴀɴᴛ%20☆-FF00FF.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -71,11 +71,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/VOICEOFHEART0"><img src="https://img.shields.io/badge/-THE%20FRIENDZ-FFFF00.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/VOICEOFHEART0"><img src="https://img.shields.io/badge/-VOICEOF%20HEART0-FFFF00.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/ABOUT_SASHIKANT"><img src="https://img.shields.io/badge/-ROY%20EDITX-00FFFF.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ABOUT_SASHIKANT"><img src="https://img.shields.io/badge/-ABOUT%20SASHIKANT-00FFFF.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
