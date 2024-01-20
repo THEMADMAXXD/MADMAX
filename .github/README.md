@@ -10,14 +10,14 @@
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0786&width=420&lines=Ⰶ+ʜᴇʏ+ᴄᴜᴛɪᴇ+ᴅᴇᴘʟᴏʏ+ʙᴏᴛ+ᴏɴ+ʜᴇʀᴏᴋᴜ+Ⰶ;Ⰶ+ɪғ+ʏᴏᴜ+ᴅᴏɴ'ᴛ+ʜᴀᴠᴇ+ʜᴇʀᴏᴋᴜ+ᴀᴄᴄᴏᴜɴᴛ+Ⰶ;Ⰶ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ᴀʟsᴏ+ᴏɴ+ᴠᴘs+sᴇʀᴠᴇʀ+Ⰶ;Ⰶ+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+STATUS+DAIRY2+Ⰶ">
 <p align="center">
-  <img src="https://telegra.ph/file/982b01ba53c3d69b0d0ce.jpg">
+  <img src="https://telegra.ph/file/85a1069fed641d0aa8eb5.jpg">
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💌+ɪ+ᴀᴍ+⚘+ɴʏᴋᴀᴀ+ᴍᴜsɪᴄ+₰+ᴀɴᴅ+ɪ+ʜᴀᴠᴇ+sᴘᴇᴄɪᴀʟ+ғᴜᴛᴜʀᴇs+🧋;💌+ғʀɪsᴛ+ʏᴏᴜ+ғᴏʀᴋ+ᴛʜɪs+ʀᴇᴘᴏ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ʏᴏᴜʀ+ʙᴏᴛ+🧋">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💌+ɪ+ᴀᴍ+ʟᴠʏ +ᴍᴜsɪᴄ+ᴀɴᴅ+ɪ+ʜᴀᴠᴇ+sᴘᴇᴄɪᴀʟ+ғᴜᴛᴜʀᴇs+🧋;💌+ғʀɪsᴛ+ʏᴏᴜ+ғᴏʀᴋ+ᴛʜɪs+ʀᴇᴘᴏ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ʏᴏᴜʀ+ʙᴏᴛ+🧋">
 
 </h2>
 
-**※ ᴛᴇxᴛ ʙᴏᴛ ➛ [‌⚘ ɴ ʏ ᴋ ᴀ ᴀ ☂ ᴍ ᴜ s ɪ ᴄ ₰](https://t.me/Nykaaxbot)**
+**※ ᴛᴇxᴛ ʙᴏᴛ ➛ [‌ʟ ᴠ ʏ ☔ ᴍ ᴜ s ɪ ᴄ 🎶](https://t.me/LVY_MUSIC_BOT)**
 
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🧋+𝗛𝗔𝗣𝗣𝗬+𝗡𝗘𝗪+𝗬𝗘𝗔𝗥+❷⓿❷❹+🧋">
@@ -27,18 +27,18 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tinaarobot/ROYMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-00FFFF?style=for-the-badge&logo=heroku" width="220" height="60"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THEMADMAXXD/MADMAX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-00FFFF?style=for-the-badge&logo=heroku" width="220" height="60"/></a></p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=white&width=420&lines=💥+ɪғ+ᴀɴʏ+ᴇʀʀᴏʀ+ᴛʜᴇɴ+sᴇɴᴅ+ᴍᴇ+ᴇʀʀᴏʀ+ɪɴ+ʀᴏʏ+ᴇᴅɪᴛx+...">
 <p align="center">
-<a href="https://telegram.me/THE_Friendz"><img src="https://img.shields.io/badge/-๛DM TO RoY EdiTX%20☆-FF00FF.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/VOICEOFHEART0"><img src="https://img.shields.io/badge/-๛DM TO RoY EdiTX%20☆-FF00FF.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/tinaarobot/DAXXMUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/THEMADMAXXD/DAXXMUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -71,11 +71,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/the_friendz"><img src="https://img.shields.io/badge/-THE%20FRIENDZ-FFFF00.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/VOICEOFHEART0"><img src="https://img.shields.io/badge/-THE%20FRIENDZ-FFFF00.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/Roy_editx"><img src="https://img.shields.io/badge/-ROY%20EDITX-00FFFF.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ABOUT_SASHIKANT"><img src="https://img.shields.io/badge/-ROY%20EDITX-00FFFF.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
