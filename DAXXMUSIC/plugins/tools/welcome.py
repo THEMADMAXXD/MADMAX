@@ -132,14 +132,14 @@ async def greet_group(_, member: ChatMemberUpdated):
             member.chat.id,
             photo=welcomeimg,
             caption=f"""
-**Wᴇʟᴄᴏᴍᴇ Tᴏ {member.chat.title}
-➖➖➖➖➖➖➖➖➖➖➖➖
-Nᴀᴍᴇ ✧ {user.mention}
-Iᴅ ✧ {user.id}
-Usᴇʀɴᴀᴍᴇ ✧ @{user.username}
-➖➖➖➖➖➖➖➖➖➖➖➖**
+**❀ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ {member.chat.title} ɢʀᴏᴜᴘ ❀
+
+๏ ɴᴀᴍᴇ ➛ {user.mention}
+๏ ɪᴅ ➛ {user.id}
+๏ ᴜsᴇʀɴᴀᴍᴇ ➛ @{user.username}
+๏ ᴍᴀᴅᴇ ʙʏ ➛ [𝐒𝐀𝐒𝐇𝐈𝐊𝐀𝐍𝐓](https://t.me/about_sashikant)**
 """,
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/YumikooBot?startgroup=true")]])
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"↻ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ↻", url=f"https://t.me/mrsashikantbot?startgroup=true")]])
         )
     except Exception as e:
         LOGGER.error(e)
@@ -163,3 +163,5 @@ ID: {message.chat.id}
 USERNAME: @{message.chat.username}
 ➖➖➖➖➖➖➖➖➖➖➖➖**
 """)
+
+    
