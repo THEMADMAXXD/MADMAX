@@ -1,18 +1,8 @@
-from DAXXMUSIC.misc import db
-from DAXXMUSIC.utils.database import get_assistant, get_authuser_names, get_cmode
-
 import asyncio
 import config
 import random
-import asyncio
-from datetime import datetime
-from pyrogram.enums import ChatType
-from DAXXMUSIC.core.call import DAXX
-from DAXXMUSIC.logging import LOGGER
-from config import *
 from pyrogram import filters
 from DAXXMUSIC import app 
-from DAXXMUSIC import app, userbot
 from DAXXMUSIC.core.userbot import Client
 from DAXXMUSIC.misc import SUDOERS
 
@@ -20,7 +10,7 @@ from DAXXMUSIC.misc import SUDOERS
 
 
 
-BOT_LIST = ["NexikoBot", "GITHUBCONTROLROBOT"]
+BOT_LIST = ["lvy_music_bot", "mrsashikantbot"]
 
 
 
